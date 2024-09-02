@@ -1,8 +1,9 @@
 import React from "react";
-import Header from "./Header";
-import Banner from"../assets/fundo.png";
+import Header from "../Header/Header";
+import Banner from"../../assets/fundo.png";
 import { FiArrowRight } from "react-icons/fi";
-import Cupcake from "../assets/Cupcake.png";
+import Cupcake from "../../assets/Cupcake.png";
+import "./Home.css";
 
 const Home = () =>{
     return(

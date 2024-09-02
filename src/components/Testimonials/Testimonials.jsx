@@ -1,6 +1,8 @@
 import React from "react";
-import Pic from "../assets/Leonardo.jpg";
+import Pic from "../../assets/Leonardo.jpg";
 import { AiFillStar } from "react-icons/ai";
+import "./Testimonials.css";
+import "../Work/Work.css";
 
 const Testimonials = () =>{
     return(

@@ -1,8 +1,9 @@
 import React from "react";
-import Delivery from "../assets/entrega.png";
-import Choose from "../assets/mao.png";
-import Restaurant  from "../assets/restaurante.png";
+import Delivery from "../../assets/entrega.png";
+import Choose from "../../assets/mao.png";
+import Restaurant  from "../../assets/restaurante.png";
 import { textFieldClasses } from "@mui/material";
+import "./Work.css";
 
 const Work = () => {
   const WorkInfoData = [

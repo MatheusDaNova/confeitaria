@@ -1,10 +1,10 @@
 import React from "react";
-import  Logo from"../assets/Logo.png";
+import  Logo from"../../assets/Logo.png";
 import { BsTwitter } from "react-icons/bs";
 import { FaFacebookF } from "react-icons/fa";
 import { AiOutlineInstagram } from "react-icons/ai";
 import { AiOutlineLinkedin } from "react-icons/ai";
-
+import "./Footer.css";
 
 const Footer = () => {
     return (
@@ -14,6 +14,7 @@ const Footer = () => {
                     <img src={Logo} alt="Logo"/>
                 </div>
                 <div className="footer__icons">
+                    
                     <BsTwitter />
                     <FaFacebookF />
                     <AiOutlineInstagram />

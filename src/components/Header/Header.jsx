@@ -7,7 +7,8 @@ import InfoIcon from "@mui/icons-material/Info";
 import  CommentRoundedIcon  from "@mui/icons-material/CommentRounded";
 import PhobeRoundedIcon from "@mui/icons-material/PhoneRounded";
 import ShoppingCartRoundedIcon  from "@mui/icons-material/ShoppingCartRounded";
-import  Logo from"../assets/Logo.png";
+import  Logo from"../../assets/Logo.png";
+import "./Header.css";
 
 const Header = () => {
 
