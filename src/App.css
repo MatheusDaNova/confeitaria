@@ -14,7 +14,8 @@
   hsl(0, 0%, 100%);
   hsl(0, 0%, 92%);
   hsl(36, 88%, 48%);
-  hsl(0, 0%, 28%);*/
+  hsl(0, 0%, 28%);
+*/
 }
 * {
   margin: 0;
@@ -91,7 +92,7 @@ nav {
   font-size: 1.5rem;
 }
 .secondary__button:hover {
-  background-color: hsl(36, 88%, 48%);
+  background-color:hsl(297, 53%, 35%);
 }
 .primary__subheading {
   font-weight: 700;

@@ -71,4 +71,7 @@
 .about__background-image-container {
     display: none;
     }
+.about__section-container .primary__subheading{
+  margin-top: 5vh;
+}
 }
